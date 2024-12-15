@@ -1,14 +1,5 @@
 # Playground and Cheatsheet for Learning Python
 
-> 🇺🇦 UKRAINE [IS BEING ATTACKED](https://war.ukraine.ua/) BY RUSSIAN ARMY. CIVILIANS ARE GETTING KILLED. RESIDENTIAL AREAS ARE GETTING BOMBED.
-> - Help Ukraine via [National Bank of Ukraine](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
-> - Help Ukraine via [SaveLife](https://savelife.in.ua/en/donate-en/) fund
-> - More info on [war.ukraine.ua](https://war.ukraine.ua/) and [MFA of Ukraine](https://twitter.com/MFA_Ukraine)
-
-<hr/>
-
-[![Build Status](https://travis-ci.org/trekhleb/learn-python.svg?branch=master)](https://travis-ci.org/trekhleb/learn-python)
-
 > This is a collection of Python scripts that are split by [topics](#table-of-contents) and contain 
 code examples with explanations, different use cases and links to further readings.
 
